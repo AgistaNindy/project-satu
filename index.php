@@ -28,6 +28,7 @@ view('templates/user_header', $data);
     </div>
     <div class="col-md-6 m-auto">
       <h3>Selamat Datang Di Aplikasi <strong class="text-primary">Buku Sederhana</strong></h3>
+      <h3>Ini branch baru <strong class="text-primary">Branch Develop</strong></h3>
       <span class="text-blqck-50 d-block">dimana anda bisa melihat buku apa saja dan detail dari buku tersebut</span>
     </div>
   </div>
